@@ -1,0 +1,6 @@
+T_tW/tree_T_tW_powheg_tauolo_job0.root
+T_tW/tree_T_tW_powheg_tauolo_job1.root
+T_tW/tree_T_tW_powheg_tauolo_job2.root
+T_tW/tree_T_tW_powheg_tauolo_job3.root
+T_tW/tree_T_tW_powheg_tauolo_job4.root
+T_tW/tree_T_tW_powheg_tauolo_job5.root
